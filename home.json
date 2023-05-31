@@ -1,0 +1,174 @@
+{
+    "banner": {
+        "visible": true,
+        "list": [
+            {
+                "id": 100001,
+                "name": "100001.png",
+                "url": "https://aaa/100001"
+            },
+            {
+                "id": 100002,
+                "name": "100002png",
+                "url": "https://aaa/100002"
+            },
+            {
+                "id": 100003,
+                "name": "100003png",
+                "url": "https://aaa/100003"
+            },
+            {
+                "id": 100004,
+                "name": "100004png",
+                "url": "https://aaa/100004"
+            },
+            {
+                "id": 100005,
+                "name": "100005png",
+                "url": "https://aaa/100005"
+            },
+            {
+                "id": 100006,
+                "name": "100006png",
+                "url": "https://aaa/100006"
+            },
+            {
+                "id": 100007,
+                "name": "100007png",
+                "url": "https://aaa/100007"
+            },
+            {
+                "id": 100008,
+                "name": "100008png",
+                "url": "https://aaa/100008"
+            },
+            {
+                "id": 100009,
+                "name": "100009png",
+                "url": "https://aaa/100009"
+            },
+            {
+                "id": 100010,
+                "name": "100010png",
+                "url": "https://aaa/100010"
+            }
+        ]
+    },
+    "autoProducts": {
+        "visible": true,
+        "label": "ランキング",
+        "category": [
+            "Women",
+            "Men",
+            "Kids"
+        ],
+        "sort": "1"
+    },
+    "manualProducts": {
+        "visible": false,
+        "label": "新着アイテム",
+        "list": [
+            {
+                "productNo": "001",
+                "sort": 1
+            },
+            {
+                "productNo": "002",
+                "sort": 2
+            },
+            {
+                "productNo": "003",
+                "sort": 3
+            },
+            {
+                "productNo": "004",
+                "sort": 4
+            },
+            {
+                "productNo": "005",
+                "sort": 5
+            },
+            {
+                "productNo": "006",
+                "sort": 6
+            },
+            {
+                "productNo": "008",
+                "sort": 8
+            },
+            {
+                "productNo": "009",
+                "sort": 9
+            },
+            {
+                "productNo": "010",
+                "sort": 10
+            }
+        ]
+    },
+    "category": {
+        "visible": true,
+        "list": [
+            {
+                "id": 10001,
+                "name": "カテゴリ１",
+                "url": "https://category/1",
+                "sort": 1
+            },
+            {
+                "id": 10002,
+                "name": "カテゴリ2",
+                "url": "https://category/2",
+                "sort": 2
+            },
+            {
+                "id": 10003,
+                "name": "カテゴリ3",
+                "url": "https://category/3",
+                "sort": 3
+            },
+            {
+                "id": 10004,
+                "name": "カテゴリ4",
+                "url": "https://category/4",
+                "sort": 4
+            },
+            {
+                "id": 10005,
+                "name": "カテゴリ5",
+                "url": "https://category/5",
+                "sort": 5
+            },
+            {
+                "id": 10006,
+                "name": "カテゴリ6",
+                "url": "https://category/6",
+                "sort": 6
+            },
+            {
+                "id": 10007,
+                "name": "カテゴリ7",
+                "url": "https://category/7",
+                "sort": 7
+            },
+            {
+                "id": 10008,
+                "name": "カテゴリ8",
+                "url": "https://category/8",
+                "sort": 8
+            },
+            {
+                "id": 10009,
+                "name": "カテゴリ9",
+                "url": "https://category/9",
+                "sort": 9
+            },
+            {
+                "id": 10010,
+                "name": "カテゴリ10",
+                "url": "https://category/10",
+                "sort": 10
+            }
+        ]
+    }
+}
