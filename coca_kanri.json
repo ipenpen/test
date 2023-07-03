@@ -19,12 +19,12 @@
             "tabId": 1,
             "list": [
                 {
-                    "category": "collection",
+                    "type": "collection",
                     "input": "11223344",
                     "s3path": "s3://aaa/bbb/100001.png"
                 },
                 {
-                    "category": "keyword",
+                    "type": "keyword",
                     "input": "Tシャツ カットソー",
                     "s3path": "s3://aaa/bbb/100002.png"
                 }
@@ -54,8 +54,8 @@
                 {
                     "": "-----------------------------------------------------  CATEGORY  -----------------------------------------------------",
                     "type": "category",
-                    "title_en": "",
-                    "title_jp": "",
+                    "title_en": "Category",
+                    "title_jp": "Category",
                     "list": [
                         {
                             "name": "Tシャツ",
