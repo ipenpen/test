@@ -17,31 +17,31 @@
     "top_banner": [
         {
             "tabId": 1,
-            "list": [
+            "items": [
                 {
                     "type": "collection",
                     "input": "11223344",
-                    "s3path": "s3://aaa/bbb/100001.png"
+                    "imageUrl": "s3://aaa/bbb/100001.png"
                 },
                 {
                     "type": "keyword",
                     "input": "Tシャツ カットソー",
-                    "s3path": "s3://aaa/bbb/100002.png"
+                    "imageUrl": "s3://aaa/bbb/100002.png"
                 }
             ]
         },
         {
             "tabId": 2,
-            "list": [
+            "items": [
                 {
                     "type": "url",
                     "input": "https://cocacoca.jp/",
-                    "s3path": "s3://aaa/bbb/200001.png"
+                    "imageUrl": "s3://aaa/bbb/200001.png"
                 },
                 {
                     "type": "product",
                     "input": "22334",
-                    "s3path": "s3://aaa/bbb/200002.png"
+                    "imageUrl": "s3://aaa/bbb/200002.png"
                 }
             ]
         }
@@ -50,112 +50,92 @@
         {
             "": "-----------------------------------------------------タブごとにリストを作る-----------------------------------------------------",
             "tabId": 1,
-            "component": [
+            "components": [
                 {
                     "": "----------------------------------------------------- LIVE -----------------------------------------------------",
                     "type": "live",
-                    "title_en": "LIVE",
-                    "title_jp": "LIVE"
+                    "title": "LIVE"
                 },
                 {
                     "": "-----------------------------------------------------  CATEGORY  -----------------------------------------------------",
                     "type": "category",
-                    "title_en": "Category",
-                    "title_jp": "Category",
-                    "list": [
+                    "title": "Category",
+                    "items": [
                         {
                             "name": "Tシャツ",
                             "collectionId": "11223344",
-                            "s3path": "s3://aaa/bbb/300001.png"
+                            "imageUrl": "s3://aaa/bbb/300001.png"
                         },
                         {
                             "name": "カットソー",
                             "collectionId": "11223344",
-                            "s3path": "s3://aaa/bbb/300002.png"
+                            "imageUrl": "s3://aaa/bbb/300002.png"
                         }
                     ]
                 },
                 {
                     "": "----------------------------------------------------- 人気検索ワード -----------------------------------------------------",
                     "type": "tag",
-                    "title_en": "Hot word",
-                    "title_jp": "Hot word"
+                    "title": "Hot Word"
                 },
                 {
-                    "": "----------------------------------------------------- 人気検索ワード -----------------------------------------------------",
-                    "type": "ranking",
-                    "title_en": "Ranking",
-                    "title_jp": "ランキング"
+                    "": "----------------------------------------------------- ranking -----------------------------------------------------",
+                    "type": "products",
+                    "title": "Ranking",
+                    "productIds": ["12346", "123455"]
                 },
                 {
-                    "": "----------------------------------------------------- バナー１列 -----------------------------------------------------",
+                    "": "----------------------------------------------------- バナー列 -----------------------------------------------------",
                     "type": "banner",
-                    "list": [
+                    "items": [
                         {
-                            "s3path": "s3://aaa/bbb/300002.png",
-                            "category": "keyword",
+                            "imageUrl": "s3://aaa/bbb/300002.png",
+                            "type": "keyword",
                             "input": "Tシャツ カットソー"
                         },
                         {
-                            "s3path": "s3://aaa/bbb/300002.png",
-                            "category": "keyword",
+                            "imageUrl": "s3://aaa/bbb/300002.png",
+                            "type": "keyword",
                             "input": "Tシャツ カットソー"
                         }
                     ]
                 },
                 {
-                    "": "----------------------------------------------------- 商品一覧・自動 -----------------------------------------------------",
-                    "type": "pickup",
-                    "title_en": "New Arrival",
-                    "title_jp": "New Arrival",
-                    "auto": true,
-                    "category": "keyword",
-                    "input": "Tシャツ カットソー"
+                    "": "----------------------------------------------------- pickup -----------------------------------------------------",
+                    "type": "auto", // TODO: need change
+                    "title": "New Arrival",
+                    "type": "collection", // keyword, xxx, yyy
+                    "input": "colectionId"
+                },
+                {
+                    "": "----------------------------------------------------- restock -----------------------------------------------------",
+                    "type": "auto", // TODO: need change
+                    "title": "Restock",
+                    "type": "collection", // keyword, xxx, yyy
+                    "input": "colectionId"
                 },
                 {
                     "": "----------------------------------------------------- 商品一覧・自動 -----------------------------------------------------",
-                    "type": "pickup",
-                    "title_en": "Restock",
-                    "title_jp": "Restock",
-                    "auto": true,
-                    "category": "keyword",
-                    "input": "Tシャツ カットソー"
-                },
-                {
-                    "": "----------------------------------------------------- 商品一覧・自動 -----------------------------------------------------",
-                    "type": "sale",
-                    "title_en": "Sale",
-                    "title_jp": "Sale",
-                    "auto": true,
-                    "category": "keyword",
-                    "input": "Tシャツ カットソー"
+                    "type": "auto", // TODO: need change
+                    "title": "Sale",
+                    "type": "collection", // keyword, xxx, yyy
+                    "input": "colectionId"
                 },
                 {
                     "": "----------------------------------------------------- 商品一覧・手動 -----------------------------------------------------",
                     "type": "products",
-                    "title_en": "",
-                    "title_jp": "",
-                    "auto": false,
-                    "list": [
-                        {
-                            "productId": "12346"
-                        },
-                        {
-                            "productId": "223456"
-                        }
-                    ]
+                    "title": "",
+                    "productIds": ["12346", "123455"]
                 },
                 {
                     "": "----------------------------------------------------- スタイリング -----------------------------------------------------",
                     "type": "styling",
-                    "title_en": "Styling",
-                    "title_jp": "Styling"
+                    "title": "Styling"
                 },
                 {
                     "": "----------------------------------------------------- ニュース -----------------------------------------------------",
                     "type": "news",
-                    "title_en": "News",
-                    "title_jp": "cocaからのお知らせ"
+                    "title": "News"
                 }
             ]
         }
