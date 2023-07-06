@@ -1,143 +1,127 @@
 {
-    "tab": [
+  "tab": [
+    {
+      "id": 1,
+      "name": "Women"
+    },
+    {
+      "id": 2,
+      "name": "Men"
+    },
+    {
+      "id": 3,
+      "name": "Kids"
+    }
+  ],
+  "top_banner": [
+    {
+      "tabId": 1,
+      "items": [
         {
-            "id": 1,
-            "name": "Women"
+          "type": "collection",
+          "input": "11223344",
+          "imageUrl": "https://picsum.photos/200/300"
         },
         {
-            "id": 2,
-            "name": "Men"
+          "type": "keyword",
+          "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼",
+          "imageUrl": "https://picsum.photos/200/300"
+        }
+      ]
+    },
+    {
+      "tabId": 2,
+      "items": [
+        {
+          "type": "url",
+          "input": "https://cocacoca.jp/",
+          "imageUrl": "https://picsum.photos/200/300"
         },
         {
-            "id": 3,
-            "name": "Kids"
+          "type": "product",
+          "input": "22334",
+          "imageUrl": "https://picsum.photos/200/300"
         }
-    ],
-    "": "-----------------------------------------------------ここからは流動的に作成-----------------------------------------------------",
-    "top_banner": [
+      ]
+    }
+  ],
+  "contents": [
+    {
+      "tabId": 1,
+      "components": [
         {
-            "tabId": 1,
-            "items": [
-                {
-                    "type": "collection",
-                    "input": "11223344",
-                    "imageUrl": "s3://aaa/bbb/100001.png"
-                },
-                {
-                    "type": "keyword",
-                    "input": "Tシャツ カットソー",
-                    "imageUrl": "s3://aaa/bbb/100002.png"
-                }
-            ]
+          "type": "live",
+          "title": "LIVE"
         },
         {
-            "tabId": 2,
-            "items": [
-                {
-                    "type": "url",
-                    "input": "https://cocacoca.jp/",
-                    "imageUrl": "s3://aaa/bbb/200001.png"
-                },
-                {
-                    "type": "product",
-                    "input": "22334",
-                    "imageUrl": "s3://aaa/bbb/200002.png"
-                }
-            ]
-        }
-    ],
-    "contents": [
+          "type": "category",
+          "title": "Category",
+          "items": [
+            {
+              "name": "Tã‚·ãƒ£ãƒ„",
+              "collectionId": "11223344",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+            },
+            {
+              "name": "ã‚«ãƒƒãƒˆã‚½ãƒ¼",
+              "collectionId": "11223344",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+            }
+          ]
+        },
         {
-            "": "-----------------------------------------------------タブごとにリストを作る-----------------------------------------------------",
-            "tabId": 1,
-            "components": [
-                {
-                    "": "----------------------------------------------------- LIVE -----------------------------------------------------",
-                    "type": "live",
-                    "title": "LIVE"
-                },
-                {
-                    "": "-----------------------------------------------------  CATEGORY  -----------------------------------------------------",
-                    "type": "category",
-                    "title": "Category",
-                    "items": [
-                        {
-                            "name": "Tシャツ",
-                            "collectionId": "11223344",
-                            "imageUrl": "s3://aaa/bbb/300001.png"
-                        },
-                        {
-                            "name": "カットソー",
-                            "collectionId": "11223344",
-                            "imageUrl": "s3://aaa/bbb/300002.png"
-                        }
-                    ]
-                },
-                {
-                    "": "----------------------------------------------------- 人気検索ワード -----------------------------------------------------",
-                    "type": "tag",
-                    "title": "Hot Word"
-                },
-                {
-                    "": "----------------------------------------------------- ranking -----------------------------------------------------",
-                    "type": "products",
-                    "title": "Ranking",
-                    "productIds": ["12346", "123455"]
-                },
-                {
-                    "": "----------------------------------------------------- バナー列 -----------------------------------------------------",
-                    "type": "banner",
-                    "items": [
-                        {
-                            "imageUrl": "s3://aaa/bbb/300002.png",
-                            "type": "keyword",
-                            "input": "Tシャツ カットソー"
-                        },
-                        {
-                            "imageUrl": "s3://aaa/bbb/300002.png",
-                            "type": "keyword",
-                            "input": "Tシャツ カットソー"
-                        }
-                    ]
-                },
-                {
-                    "": "----------------------------------------------------- pickup -----------------------------------------------------",
-                    "type": "auto", // TODO: need change
-                    "title": "New Arrival",
-                    "type": "collection", // keyword, xxx, yyy
-                    "input": "colectionId"
-                },
-                {
-                    "": "----------------------------------------------------- restock -----------------------------------------------------",
-                    "type": "auto", // TODO: need change
-                    "title": "Restock",
-                    "type": "collection", // keyword, xxx, yyy
-                    "input": "colectionId"
-                },
-                {
-                    "": "----------------------------------------------------- 商品一覧・自動 -----------------------------------------------------",
-                    "type": "auto", // TODO: need change
-                    "title": "Sale",
-                    "type": "collection", // keyword, xxx, yyy
-                    "input": "colectionId"
-                },
-                {
-                    "": "----------------------------------------------------- 商品一覧・手動 -----------------------------------------------------",
-                    "type": "products",
-                    "title": "",
-                    "productIds": ["12346", "123455"]
-                },
-                {
-                    "": "----------------------------------------------------- スタイリング -----------------------------------------------------",
-                    "type": "styling",
-                    "title": "Styling"
-                },
-                {
-                    "": "----------------------------------------------------- ニュース -----------------------------------------------------",
-                    "type": "news",
-                    "title": "News"
-                }
-            ]
+          "type": "tag",
+          "title": "Hot Word"
+        },
+        {
+          "type": "ranking",
+          "title": "Ranking",
+          "productIds": ["12346", "123455"]
+        },
+        {
+          "type": "banner1",
+          "items": [
+            {
+              "imageUrl": "https://picsum.photos/200/300",
+              "type": "keyword",
+              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+            },
+            {
+              "imageUrl": "https://picsum.photos/200/300",
+              "type": "keyword",
+              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+            }
+          ]
+        },
+        {
+          "type": "auto",
+          "title": "New Arrival",
+          "input": "colectionId"
+        },
+        {
+          "type": "auto",
+          "title": "Restock",
+          "input": "colectionId"
+        },
+        {
+          "type": "auto",
+          "title": "Sale",
+          "input": "colectionId"
+        },
+        {
+          "type": "products",
+          "title": "",
+          "productIds": ["12346", "123455"]
+        },
+        {
+          "type": "styling",
+          "title": "Styling"
+        },
+        {
+          "type": "news",
+          "title": "News"
         }
-    ]
+      ]
+    }
+  ]
 }
