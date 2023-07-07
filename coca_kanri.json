@@ -26,6 +26,21 @@
           "type": "keyword",
           "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼",
           "imageUrl": "https://picsum.photos/200/300"
+        },
+        {
+          "type": "keyword",
+          "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼",
+          "imageUrl": "https://picsum.photos/200/300"
+        },
+        {
+          "type": "keyword",
+          "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼",
+          "imageUrl": "https://picsum.photos/200/300"
+        },
+        {
+          "type": "keyword",
+          "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼",
+          "imageUrl": "https://picsum.photos/200/300"
         }
       ]
     },
@@ -99,9 +114,9 @@
           "input": "colectionId"
         },
         {
-          "type": "auto",
+          "type": "products",
           "title": "Restock",
-          "input": "colectionId"
+          "productIds": ["12346", "123455", "123455", "123455"]
         },
         {
           "type": "auto",
@@ -109,9 +124,39 @@
           "input": "colectionId"
         },
         {
-          "type": "products",
-          "title": "",
-          "productIds": ["12346", "123455"]
+          "type": "banner2",
+          "items": [
+            {
+              "imageUrl": "https://picsum.photos/200/300",
+              "type": "keyword",
+              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+            },
+            {
+              "imageUrl": "https://picsum.photos/200/300",
+              "type": "keyword",
+              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+            },
+            {
+              "imageUrl": "https://picsum.photos/200/300",
+              "type": "keyword",
+              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+            },
+            {
+              "imageUrl": "https://picsum.photos/200/300",
+              "type": "keyword",
+              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+            },
+            {
+              "imageUrl": "https://picsum.photos/200/300",
+              "type": "keyword",
+              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+            },
+            {
+              "imageUrl": "https://picsum.photos/200/300",
+              "type": "keyword",
+              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+            }
+          ]
         },
         {
           "type": "styling",
