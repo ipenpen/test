@@ -116,7 +116,7 @@
         {
           "type": "products",
           "title": "Restock",
-          "productIds": ["12346", "123455", "123455", "123455"]
+          "productIds": ["gid://shopify/Product/8168788558112", "gid://shopify/Product/8168788558112", "gid://shopify/Product/8168788558112", "gid://shopify/Product/8168788558112"]
         },
         {
           "type": "auto",
