@@ -50,12 +50,17 @@
         {
           "type": "url",
           "input": "https://cocacoca.jp/",
-          "imageUrl": "https://picsum.photos/200/300"
+          "imageUrl": "https://picsum.photos/250/300"
         },
         {
           "type": "product",
           "input": "22334",
           "imageUrl": "https://picsum.photos/200/300"
+        },
+        {
+          "type": "product",
+          "input": "22334",
+          "imageUrl": "https://picsum.photos/300/300"
         }
       ]
     }
@@ -162,6 +167,120 @@
         {
           "type": "styling",
           "title": "Styling"
+        },
+        {
+          "type": "news",
+          "title": "News"
+        }
+      ]
+    },
+    
+    {
+      "tabId": 2,
+      "components": [
+        {
+          "type": "category",
+          "title": "Category",
+          "items": [
+            {
+              "name": "Tã‚·ãƒ£ãƒ„",
+              "collectionId": "11223344",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+            },
+            {
+              "name": "ã‚«ãƒƒãƒˆã‚½ãƒ¼",
+              "collectionId": "11223344",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+            }
+          ]
+        },
+        {
+          "type": "ranking",
+          "title": "Ranking",
+          "productIds": ["12346", "123455"]
+        },
+        {
+          "type": "auto",
+          "title": "New Arrival",
+          "input": "colectionId"
+        },
+        {
+          "type": "products",
+          "title": "Restock",
+          "productIds": ["gid://shopify/Product/8168788558112", "gid://shopify/Product/8168788558112", "gid://shopify/Product/8168788558112", "gid://shopify/Product/8168788558112"]
+        },
+        {
+          "type": "styling",
+          "title": "Styling"
+        },
+        {
+          "type": "news",
+          "title": "News"
+        }
+      ]
+    },
+    
+    {
+      "tabId": 3,
+      "components": [
+        {
+          "type": "live",
+          "title": "LIVE"
+        },
+        {
+          "type": "category",
+          "title": "Category",
+          "items": [
+            {
+              "name": "Tã‚·ãƒ£ãƒ„",
+              "collectionId": "11223344",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+            },
+            {
+              "name": "ã‚«ãƒƒãƒˆã‚½ãƒ¼",
+              "collectionId": "11223344",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+            }
+          ]
+        },
+        {
+          "type": "tag",
+          "title": "Hot Word"
+        },
+        {
+          "type": "ranking",
+          "title": "Ranking",
+          "productIds": ["12346", "123455"]
+        },
+        {
+          "type": "banner1",
+          "items": [
+            {
+              "imageUrl": "https://picsum.photos/200/300",
+              "type": "keyword",
+              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+            },
+            {
+              "imageUrl": "https://picsum.photos/200/300",
+              "type": "keyword",
+              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+            }
+          ]
+        },
+        {
+          "type": "auto",
+          "title": "Sale",
+          "input": "colectionId"
+        },
+        {
+          "type": "products",
+          "title": "Restock",
+          "productIds": ["gid://shopify/Product/8168788558112", "gid://shopify/Product/8168788558112", "gid://shopify/Product/8168788558112", "gid://shopify/Product/8168788558112"]
+        },
+        {
+          "type": "auto",
+          "title": "New Arrival",
+          "input": "colectionId"
         },
         {
           "type": "news",
