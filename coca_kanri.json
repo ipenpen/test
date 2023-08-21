@@ -96,7 +96,8 @@
         {
           "type": "ranking",
           "title": "Ranking",
-          "collectionId": "438914023712"
+          "collectionId": "438914023712",
+          "productIds": ["12346", "123455"]
         },
         {
           "type": "banner1",
@@ -197,7 +198,8 @@
         {
           "type": "ranking",
           "title": "Ranking",
-          "collectionId": "438914023712""
+          "collectionId": "438914023712",
+          "productIds": ["12346", "123455"]
         },
         {
           "type": "auto",
@@ -250,7 +252,8 @@
         {
           "type": "ranking",
           "title": "Ranking",
-          "collectionId": "438914023712"
+          "collectionId": "438914023712",
+          "productIds": ["12346", "123455"]
         },
         {
           "type": "banner1",
