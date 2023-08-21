@@ -96,7 +96,7 @@
         {
           "type": "ranking",
           "title": "Ranking",
-          "productIds": ["12346", "123455"]
+          "collectionId": "438914023712"
         },
         {
           "type": "banner1",
@@ -197,7 +197,7 @@
         {
           "type": "ranking",
           "title": "Ranking",
-          "productIds": ["12346", "123455"]
+          "collectionId": "438914023712""
         },
         {
           "type": "auto",
@@ -250,7 +250,7 @@
         {
           "type": "ranking",
           "title": "Ranking",
-          "productIds": ["12346", "123455"]
+          "collectionId": "438914023712"
         },
         {
           "type": "banner1",
