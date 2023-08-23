@@ -78,13 +78,33 @@
           "title": "Category",
           "items": [
             {
-              "name": "Tã‚·ãƒ£ãƒ„",
+              "name": "トップス",
               "collectionId": "112233442",
               "imageUrl": "https://picsum.photos/seed/picsum/200/300"
             },
             {
-              "name": "ã‚«ãƒƒãƒˆã‚½ãƒ¼",
-              "collectionId": "112233443",
+              "name": "ワンピース",
+              "collectionId": "1122334431",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+            },
+            {
+              "name": "ワンピース",
+              "collectionId": "1122334432",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+            },
+            {
+              "name": "スカート",
+              "collectionId": "1122334433",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+            },
+            {
+              "name": "パンツ",
+              "collectionId": "1122334434",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+            },
+            {
+              "name": "アウター",
+              "collectionId": "1122334435",
               "imageUrl": "https://picsum.photos/seed/picsum/200/300"
             }
           ]
