@@ -131,7 +131,7 @@
           "productIds": ["gid://shopify/Product/8168788558112", "gid://shopify/Product/8169433006368", "gid://shopify/Product/8169441329440", "gid://shopify/Product/8169378906400"]
         },
         {
-          "type": "collection",
+          "type": "sale",
           "title": "Sale",
           "input": "438914023712",
           "tag": "WOMEN"
@@ -306,7 +306,7 @@
           ]
         },
         {
-          "type": "collection",
+          "type": "sale",
           "title": "Sale",
           "input": "438914122016"
         },
