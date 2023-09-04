@@ -20,7 +20,7 @@
         {
           "type": "collection",
           "input": "438914023712",
-          "tag": "Women"
+          "tag": "WOMAN"
           "imageUrl": "https://picsum.photos/200/300"
         },
         {
@@ -134,7 +134,7 @@
           "type": "collection",
           "title": "Sale",
           "input": "438914023712",
-          "tag": "MEN"
+          "tag": "WOMAN"
         },
         {
           "type": "banner2",
