@@ -19,28 +19,29 @@
       "items": [
         {
           "type": "collection",
-          "input": "112233441",
+          "input": "438914023712",
+          "tag": "Women"
           "imageUrl": "https://picsum.photos/200/300"
         },
         {
           "type": "keyword",
-          "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼",
-          "imageUrl": "https://picsum.photos/200/300"
+          "input": "winter",
+          "imageUrl": "https://picsum.photos/200/301"
         },
         {
           "type": "keyword",
-          "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼",
-          "imageUrl": "https://picsum.photos/200/300"
+          "input": "sale",
+          "imageUrl": "https://picsum.photos/200/302"
         },
         {
           "type": "keyword",
-          "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼",
-          "imageUrl": "https://picsum.photos/200/300"
+          "input": "trend",
+          "imageUrl": "https://picsum.photos/200/303"
         },
         {
           "type": "keyword",
-          "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼",
-          "imageUrl": "https://picsum.photos/200/300"
+          "input": "key",
+          "imageUrl": "https://picsum.photos/200/304"
         }
       ]
     },
@@ -54,13 +55,13 @@
         },
         {
           "type": "product",
-          "input": "22334",
-          "imageUrl": "https://picsum.photos/200/300"
+          "input": "gid://shopify/Product/8168788558112",
+          "imageUrl": "https://picsum.photos/200/301"
         },
         {
           "type": "product",
-          "input": "22334",
-          "imageUrl": "https://picsum.photos/300/300"
+          "input": "gid://shopify/Product/8168788558112",
+          "imageUrl": "https://picsum.photos/300/302"
         }
       ]
     }
@@ -79,18 +80,18 @@
           "items": [
             {
               "name": "トップス",
-              "collectionId": "112233442",
+              "collectionId": "438914023712",
               "imageUrl": "https://picsum.photos/seed/picsum/200/300"
             },
             {
               "name": "パンツ",
-              "collectionId": "1122334434",
-              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+              "collectionId": "438914122016",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/301"
             },
             {
               "name": "アウター",
-              "collectionId": "1122334435",
-              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+              "collectionId": "445165502752",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/302"
             }
           ]
         },
@@ -101,8 +102,7 @@
         {
           "type": "ranking",
           "title": "Ranking",
-          "collectionId": "438914023712",
-          "productIds": ["12346", "123455"]
+          "collectionId": "438914023712"
         },
         {
           "type": "banner1",
@@ -110,62 +110,64 @@
             {
               "imageUrl": "https://picsum.photos/200/300",
               "type": "keyword",
-              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+              "input": "バナー1"
             },
             {
               "imageUrl": "https://picsum.photos/200/300",
               "type": "keyword",
-              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+              "input": "バナー2テキストテキストテキストテキストテキストテキストテキストテキストテキスト"
             }
           ]
         },
         {
-          "type": "auto",
+          "type": "collection",
           "title": "New Arrival",
-          "input": "colectionId"
+          "input": "438914122016",
+          "tag": "MEN"
         },
         {
           "type": "products",
           "title": "Restock",
-          "productIds": ["gid://shopify/Product/8168788558112", "gid://shopify/Product/8168788558112", "gid://shopify/Product/8168788558112", "gid://shopify/Product/8168788558112"]
+          "productIds": ["gid://shopify/Product/8168788558112", "gid://shopify/Product/8169433006368", "gid://shopify/Product/8169441329440", "gid://shopify/Product/8169378906400"]
         },
         {
-          "type": "auto",
+          "type": "collection",
           "title": "Sale",
-          "input": "colectionId"
+          "input": "438914023712",
+          "tag": "MEN"
         },
         {
           "type": "banner2",
           "items": [
             {
-              "imageUrl": "https://picsum.photos/200/300",
+              "imageUrl": "https://picsum.photos/200/310",
               "type": "keyword",
-              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+              "input": "バナー２テキスト"
             },
             {
-              "imageUrl": "https://picsum.photos/200/300",
+              "imageUrl": "https://picsum.photos/200/311",
               "type": "keyword",
-              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+              "input": "バナー２テキスト"
             },
             {
-              "imageUrl": "https://picsum.photos/200/300",
+              "imageUrl": "https://picsum.photos/200/312",
               "type": "keyword",
-              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+              "input": "バナー２テキスト"
             },
             {
-              "imageUrl": "https://picsum.photos/200/300",
+              "imageUrl": "https://picsum.photos/200/313",
               "type": "keyword",
-              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+              "input": "バナー２テキスト"
             },
             {
-              "imageUrl": "https://picsum.photos/200/300",
+              "imageUrl": "https://picsum.photos/200/314",
               "type": "keyword",
-              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+              "input": "バナー２テキスト"
             },
             {
-              "imageUrl": "https://picsum.photos/200/300",
+              "imageUrl": "https://picsum.photos/200/315",
               "type": "keyword",
-              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+              "input": "バナー２テキスト"
             }
           ]
         },
@@ -190,41 +192,40 @@
           "items": [
             {
               "name": "トップス",
-              "collectionId": "112233442",
-              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+              "collectionId": "438914122016",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/320"
             },
             {
               "name": "ワンピース",
-              "collectionId": "1122334432",
-              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+              "collectionId": "438914122016",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/321"
             },
             {
               "name": "スカート",
-              "collectionId": "1122334433",
-              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+              "collectionId": "438914122016",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/322"
             },
             {
               "name": "パンツ",
-              "collectionId": "1122334434",
-              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+              "collectionId": "438914122016",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/323"
             },
             {
               "name": "アウター",
-              "collectionId": "1122334435",
-              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+              "collectionId": "438914122016",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/324"
             }
           ]
         },
         {
           "type": "ranking",
           "title": "Ranking",
-          "collectionId": "438914023712",
-          "productIds": ["12346", "123455"]
+          "collectionId": "438914023712"
         },
         {
           "type": "auto",
           "title": "New Arrival",
-          "input": "colectionId"
+          "input": "438914023712"
         },
         {
           "type": "products",
@@ -255,28 +256,28 @@
           "items": [
             {
               "name": "トップス",
-              "collectionId": "112233442",
-              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+              "collectionId": "438914122016",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/330"
             },
             {
               "name": "ワンピース",
-              "collectionId": "1122334432",
-              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+              "collectionId": "438914122016",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/331"
             },
             {
               "name": "スカート",
-              "collectionId": "1122334433",
-              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+              "collectionId": "438914122016",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/332"
             },
             {
               "name": "パンツ",
-              "collectionId": "1122334434",
-              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+              "collectionId": "438914122016",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/333"
             },
             {
               "name": "アウター",
-              "collectionId": "1122334435",
-              "imageUrl": "https://picsum.photos/seed/picsum/200/300"
+              "collectionId": "438914122016",
+              "imageUrl": "https://picsum.photos/seed/picsum/200/334"
             }
           ]
         },
@@ -287,28 +288,27 @@
         {
           "type": "ranking",
           "title": "Ranking",
-          "collectionId": "438914023712",
-          "productIds": ["12346", "123455"]
+          "collectionId": "438914023712"
         },
         {
           "type": "banner1",
           "items": [
             {
-              "imageUrl": "https://picsum.photos/200/300",
+              "imageUrl": "https://picsum.photos/200/341",
               "type": "keyword",
-              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+              "input": "Banner A"
             },
             {
-              "imageUrl": "https://picsum.photos/200/300",
+              "imageUrl": "https://picsum.photos/200/342",
               "type": "keyword",
-              "input": "Tã‚·ãƒ£ãƒ„ ã‚«ãƒƒãƒˆã‚½ãƒ¼"
+              "input": "Banner B"
             }
           ]
         },
         {
-          "type": "auto",
+          "type": "collection",
           "title": "Sale",
-          "input": "colectionId"
+          "input": "438914122016"
         },
         {
           "type": "products",
@@ -316,9 +316,9 @@
           "productIds": ["gid://shopify/Product/8168788558112", "gid://shopify/Product/8168788558112", "gid://shopify/Product/8168788558112", "gid://shopify/Product/8168788558112"]
         },
         {
-          "type": "auto",
+          "type": "collection",
           "title": "New Arrival",
-          "input": "colectionId"
+          "input": "438914122016"
         },
         {
           "type": "news",
