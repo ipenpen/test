@@ -80,17 +80,17 @@
           "items": [
             {
               "name": "トップス",
-              "collectionId": "gid://shopify/Collceion/438914023712",
+              "collectionId": "gid://shopify/Collection/438914023712",
               "imageUrl": "https://picsum.photos/seed/picsum/200/300"
             },
             {
               "name": "パンツ",
-              "collectionId": "gid://shopify/Collceion/438914122016",
+              "collectionId": "gid://shopify/Collection/438914122016",
               "imageUrl": "https://picsum.photos/seed/picsum/200/301"
             },
             {
               "name": "アウター",
-              "collectionId": "gid://shopify/Collceion/445165502752",
+              "collectionId": "gid://shopify/Collection/445165502752",
               "imageUrl": "https://picsum.photos/seed/picsum/200/302"
             }
           ]
@@ -102,7 +102,7 @@
         {
           "type": "ranking",
           "title": "Ranking",
-          "collectionId": "gid://shopify/Collceion/438914023712"
+          "collectionId": "gid://shopify/Collection/438914023712"
         },
         {
           "type": "banner1",
@@ -122,7 +122,7 @@
         {
           "type": "collection",
           "title": "New Arrival",
-          "input": "gid://shopify/Collceion/438914122016",
+          "input": "gid://shopify/Collection/438914122016",
           "tag": "MEN"
         },
         {
@@ -133,7 +133,7 @@
         {
           "type": "sale",
           "title": "Sale",
-          "input": "gid://shopify/Collceion/438914023712",
+          "input": "gid://shopify/Collection/438914023712",
           "tag": "WOMEN"
         },
         {
@@ -192,27 +192,27 @@
           "items": [
             {
               "name": "トップス",
-              "collectionId": "gid://shopify/Collceion/438914122016",
+              "collectionId": "gid://shopify/Collection/438914122016",
               "imageUrl": "https://picsum.photos/seed/picsum/200/320"
             },
             {
               "name": "ワンピース",
-              "collectionId": "gid://shopify/Collceion/438914122016",
+              "collectionId": "gid://shopify/Collection/438914122016",
               "imageUrl": "https://picsum.photos/seed/picsum/200/321"
             },
             {
               "name": "スカート",
-              "collectionId": "gid://shopify/Collceion/438914122016",
+              "collectionId": "gid://shopify/Collection/438914122016",
               "imageUrl": "https://picsum.photos/seed/picsum/200/322"
             },
             {
               "name": "パンツ",
-              "collectionId": "gid://shopify/Collceion/438914122016",
+              "collectionId": "gid://shopify/Collection/438914122016",
               "imageUrl": "https://picsum.photos/seed/picsum/200/323"
             },
             {
               "name": "アウター",
-              "collectionId": "gid://shopify/Collceion/438914122016",
+              "collectionId": "gid://shopify/Collection/438914122016",
               "imageUrl": "https://picsum.photos/seed/picsum/200/324"
             }
           ]
@@ -220,12 +220,12 @@
         {
           "type": "ranking",
           "title": "Ranking",
-          "collectionId": "gid://shopify/Collceion/438914023712"
+          "collectionId": "gid://shopify/Collection/438914023712"
         },
         {
           "type": "auto",
           "title": "New Arrival",
-          "input": "gid://shopify/Collceion/438914023712"
+          "input": "gid://shopify/Collection/438914023712"
         },
         {
           "type": "products",
@@ -256,27 +256,27 @@
           "items": [
             {
               "name": "トップス",
-              "collectionId": "gid://shopify/Collceion/438914122016",
+              "collectionId": "gid://shopify/Collection/438914122016",
               "imageUrl": "https://picsum.photos/seed/picsum/200/330"
             },
             {
               "name": "ワンピース",
-              "collectionId": "gid://shopify/Collceion/438914122016",
+              "collectionId": "gid://shopify/Collection/438914122016",
               "imageUrl": "https://picsum.photos/seed/picsum/200/331"
             },
             {
               "name": "スカート",
-              "collectionId": "gid://shopify/Collceion/438914122016",
+              "collectionId": "gid://shopify/Collection/438914122016",
               "imageUrl": "https://picsum.photos/seed/picsum/200/332"
             },
             {
               "name": "パンツ",
-              "collectionId": "gid://shopify/Collceion/438914122016",
+              "collectionId": "gid://shopify/Collection/438914122016",
               "imageUrl": "https://picsum.photos/seed/picsum/200/333"
             },
             {
               "name": "アウター",
-              "collectionId": "gid://shopify/Collceion/438914122016",
+              "collectionId": "gid://shopify/Collection/438914122016",
               "imageUrl": "https://picsum.photos/seed/picsum/200/334"
             }
           ]
@@ -288,7 +288,7 @@
         {
           "type": "ranking",
           "title": "Ranking",
-          "collectionId": "gid://shopify/Collceion/438914023712"
+          "collectionId": "gid://shopify/Collection/438914023712"
         },
         {
           "type": "banner1",
@@ -308,7 +308,7 @@
         {
           "type": "sale",
           "title": "Sale",
-          "input": "gid://shopify/Collceion/438914122016"
+          "input": "gid://shopify/Collection/438914122016"
         },
         {
           "type": "products",
@@ -318,7 +318,7 @@
         {
           "type": "collection",
           "title": "New Arrival",
-          "input": "gid://shopify/Collceion/438914122016"
+          "input": "gid://shopify/Collection/438914122016"
         },
         {
           "type": "news",
