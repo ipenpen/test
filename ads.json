@@ -1,0 +1,110 @@
+{
+  "tabs": [
+    {
+      "tab_name": "マイニュース",
+      "ads_loops": [
+        {
+          "image_url": "https://cdn01.coinjinja.com/banner/180803/0ptahiyzm78auww.png_w1080",
+          "target_url": "https://google.com"
+        },
+        {
+          "image_url": "https://cdn01.coinjinja.com/banner/180803/0ptahiyzm78auww.png_w1080",
+          "target_url": "https://google.com"
+        },
+        {
+          "image_url": "https://cdn01.coinjinja.com/banner/180803/0ptahiyzm78auww.png_w1080",
+          "target_url": "https://google.com"
+        }
+      ]
+    },
+    {
+      "tab_name": "トップ",
+      "ads_top": {
+        "image_url": "https://cdn01.coinjinja.com/banner/180803/0ptahiyzm78auww.png_w1080",
+        "target_url": "https://google.com"
+      },
+      "ads_loops": [
+        {
+          "image_url": "https://cdn01.coinjinja.com/banner/180803/0ptahiyzm78auww.png_w1080",
+          "target_url": "https://google.com"
+        },
+        {
+          "image_url": "https://cdn01.coinjinja.com/banner/180803/0ptahiyzm78auww.png_w1080",
+          "target_url": "https://google.com"
+        },
+        {
+          "image_url": "https://cdn01.coinjinja.com/banner/180803/0ptahiyzm78auww.png_w1080",
+          "target_url": "https://google.com"
+        }
+      ]
+    },
+    {
+      "tab_name": "ニュース",
+      "ads_loops": [
+        {
+          "image_url": "https://cdn01.coinjinja.com/banner/180803/0ptahiyzm78auww.png_w1080",
+          "target_url": "https://google.com"
+        },
+        {
+          "image_url": "https://cdn01.coinjinja.com/banner/180803/0ptahiyzm78auww.png_w1080",
+          "target_url": "https://google.com"
+        },
+        {
+          "image_url": "https://cdn01.coinjinja.com/banner/180803/0ptahiyzm78auww.png_w1080",
+          "target_url": "https://google.com"
+        }
+      ]
+    },
+    {
+      "tab_name": "特集",
+      "ads_loops": [
+        {
+          "image_url": "https://cdn01.coinjinja.com/banner/180803/0ptahiyzm78auww.png_w1080",
+          "target_url": "https://google.com"
+        },
+        {
+          "image_url": "https://cdn01.coinjinja.com/banner/180803/0ptahiyzm78auww.png_w1080",
+          "target_url": "https://google.com"
+        },
+        {
+          "image_url": "https://cdn01.coinjinja.com/banner/180803/0ptahiyzm78auww.png_w1080",
+          "target_url": "https://google.com"
+        }
+      ]
+    },
+    {
+      "tab_name": "テクノロジー",
+      "ads_loops": [
+        {
+          "image_url": "https://cdn01.coinjinja.com/banner/180803/0ptahiyzm78auww.png_w1080",
+          "target_url": "https://google.com"
+        },
+        {
+          "image_url": "https://cdn01.coinjinja.com/banner/180803/0ptahiyzm78auww.png_w1080",
+          "target_url": "https://google.com"
+        },
+        {
+          "image_url": "https://cdn01.coinjinja.com/banner/180803/0ptahiyzm78auww.png_w1080",
+          "target_url": "https://google.com"
+        }
+      ]
+    },
+    {
+      "tab_name": "法規制・税制",
+      "ads_loops": [
+        {
+          "image_url": "https://cdn01.coinjinja.com/banner/180803/0ptahiyzm78auww.png_w1080",
+          "target_url": "https://google.com"
+        },
+        {
+          "image_url": "https://cdn01.coinjinja.com/banner/180803/0ptahiyzm78auww.png_w1080",
+          "target_url": "https://google.com"
+        },
+        {
+          "image_url": "https://cdn01.coinjinja.com/banner/180803/0ptahiyzm78auww.png_w1080",
+          "target_url": "https://google.com"
+        }
+      ]
+    }
+  ]
+}
